@@ -1,6 +1,10 @@
 numpy == 2.0.0
 pandas == 2.2.2
 seaborn == 0.13.2
+matplotlib == 3.9
+scikit-learn == 1.5.1
+catboost
+xgboost
 
 -e.
 
