@@ -5,6 +5,7 @@ matplotlib == 3.9
 scikit-learn == 1.5.1
 catboost
 xgboost
+dill
 
 -e.
 
