@@ -6,6 +6,9 @@ scikit-learn == 1.5.1
 catboost
 xgboost
 dill
+python-dotenv
+mysql-connector-python
+pymysql
 
 -e.
 
